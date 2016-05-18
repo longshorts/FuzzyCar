@@ -1,0 +1,6 @@
+E:\MobileGitRepositories\AIFuzzyLogicGame\AIFuzzyLib\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.XML
+E:\MobileGitRepositories\AIFuzzyLogicGame\AIFuzzyLib\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.dll
+E:\MobileGitRepositories\AIFuzzyLogicGame\AIFuzzyLib\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.pdb
+E:\MobileGitRepositories\AIFuzzyLogicGame\AIFuzzyLib\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.csprojResolveAssemblyReference.cache
+E:\MobileGitRepositories\AIFuzzyLogicGame\AIFuzzyLib\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.dll
+E:\MobileGitRepositories\AIFuzzyLogicGame\AIFuzzyLib\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.pdb
